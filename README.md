@@ -10,6 +10,10 @@ Este projeto é um sorteador de amigo secreto feito com **HTML, CSS e JavaScript
 - **Atualizar a lista**: A interface exibe automaticamente todos os nomes adicionados.
 - **Sortear amigos**: Os amigos são embaralhados e sorteados de forma que ninguém tire a si mesmo.
 
+  ![Stop 2]([https://link-da-imagem.com/imagem.png](https://github.com/EmersonS26/Desafio-Projeto-Alura-Amigo-Secreto/blob/main/Desafio-Alura-Amigo-Secreta/assets/1.png))
+  ![Stop 2]([https://link-da-imagem.com/imagem.png](https://github.com/EmersonS26/Desafio-Projeto-Alura-Amigo-Secreto/blob/main/Desafio-Alura-Amigo-Secreta/assets/2.png))
+
+
 ---
 
 ## 🚀 Como usar
