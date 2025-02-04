@@ -68,5 +68,5 @@ Este projeto é de uso livre. Você pode modificar e distribuir conforme necess�
 
 ---
 
-Divirta-se com seu **Amigo Secreto**! 🎉
+**Divirta-se**! 🎉
 
