@@ -18,7 +18,7 @@ Este projeto é um sorteador de amigo secreto feito com **HTML, CSS e JavaScript
 
 ```bash
   git clone https://github.com/seu-usuario/amigo-secreto.git
-  cd amigo-secreto
+  cd Desafio-Projeto-Alura-Amigo-Secreto
 ```
 
 ### 2️⃣ Abrir o arquivo `index.html`
